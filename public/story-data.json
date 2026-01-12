@@ -1,0 +1,14 @@
+[
+  {
+    "chapter": 1,
+    "text": "Knurzel, das grüne Monster, rein voller Freude,\nIn einer Pfütze springt, mit großem Neide.\nSein Lachen klingt, es hallt und gellt,\nFreundlich, glücklich, wie's ihm gefällt.",
+    "imagePath": "/assets/chapter-1.png",
+    "audioPath": "/assets/chapter-1.mp3"
+  },
+  {
+    "chapter": 2,
+    "text": "Knurzel schläft in einem Bett so weich,\nMit einem Teddybär, seinen langen Streich.\nEr träumt von Wiesen, Himmel so klar,\nIn seiner Welt ist alles wunderbar.",
+    "imagePath": "/assets/chapter-2.png",
+    "audioPath": "/assets/chapter-2.mp3"
+  }
+]
